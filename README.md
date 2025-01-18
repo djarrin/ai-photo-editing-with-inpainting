@@ -29,14 +29,25 @@ The notebook (photo-editor.ipynd) combines tools from state-of-the-art models to
 ---
 
 ## Application Example Outputs
+### Family in the Amazon
+#### Original Image
 ![Original Image](screenshots/fam-photo-min.jpeg)
+#### App UI
 ![App UI](screenshots/fam-rain-forest-ui.png)
+#### Edited Image
 ![Edited Image](screenshots/fam-in-rain-forest.png)
 
+### Family on Mars
+#### Original Image
 ![Original Image](screenshots/family-min.png)
+#### App UI
 ![App UI](screenshots/fam-mars-ui.png)
+#### Edited Image
 ![Edited Image](screenshots/family-on-mars.png)
 
+### Library on Mars
+#### Original Image
 ![Original Image](screenshots/library-chair-min.png)
+#### App UI
 ![App UI](screenshots/library-on-mars-ui.png)
 
